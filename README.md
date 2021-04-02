@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asaugat04
+- 👋 Hi, I’m Saugat Adhikari
 - 🌱 I’m currently learning Bsc.CSIT
 - 💞️ I’m looking to collaborate on Web devlopment
 - 📫 How to reach me Mail:asaugat04@gmail.com
