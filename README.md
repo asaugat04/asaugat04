@@ -1,4 +1,4 @@
-<h3 align="center">A passionate student and developer from Nepal</h3>
+<h3 align="center">A student passionate and developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asaugat04&label=Profile%20views&color=aeafa7&style=flat" alt="asaugat04" /> </p>
 
