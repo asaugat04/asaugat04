@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking to collaborate on **Web development**
 
-- 👨‍💻 All of my projects are available at [asaugat.com.np](asaugat.com.np)
+- 👨‍💻 All of my projects are available at [asaugat.com.np](https://www.asaugat.com.np)
 
 - 💬 Ask me about **Javascript,C and C++**
 
