@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/asaugat04" target="blank"><img src="https://img.shields.io/twitter/follow/asaugat04?logo=twitter&style=for-the-badge" alt="asaugat04" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Express and MongoDb**
 
 - 🤝 I’m looking to collaborate on **Web development**
 
